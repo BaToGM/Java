@@ -1,0 +1,2 @@
+Productor mete en la cola el siguiente mensaje: hola ahora lo voy a poner todo seguido
+Productor mete en la cola el siguiente mensaje: null
