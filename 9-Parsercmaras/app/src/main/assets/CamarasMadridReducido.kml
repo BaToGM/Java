@@ -1,0 +1,180 @@
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <description>http://informo.munimadrid.es/cameras/Camara06303.jpg</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>06303</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE CASTILLA (NORTE)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68894207537291,40.466063829633,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://informo.munimadrid.es/cameras/Camara06304.jpg</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>06304</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE CASTILLA (SUR)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68963237924212,40.4657761535436,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://informo.munimadrid.es/cameras/Camara06305.jpg</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>06305</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE CUZCO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69023949186136,40.4590641757846,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://informo.munimadrid.es/cameras/Camara06306.jpg</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>06306</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE LIMA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69048871765836,40.4520280139944,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://informo.munimadrid.es/cameras/Camara06308.jpg</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>06308</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CUATRO CAMINOS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70406984281203,40.4469910764164,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://informo.munimadrid.es/cameras/Camara09303.jpg</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>09303</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PRINCESA - MORET</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71914660133047,40.4348920483828,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://informo.munimadrid.es/cameras/Camara07306.jpg</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>07306</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA CRISTO REY</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71764690637595,40.4392000528541,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://informo.munimadrid.es/cameras/Camara09307.jpg</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>09307</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GTA DE SAN VICENTE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71992556005439,40.4202726781817,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://informo.munimadrid.es/cameras/Camara01313.jpg</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>01313</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE ESPAÑA - BAILEN</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71295146769277,40.4220001280111,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://informo.munimadrid.es/cameras/Camara09301.jpg</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>09301</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE ESPAÑA - GRAN VIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71080716985496,40.4232117722576,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://informo.munimadrid.es/cameras/Camara01314.jpg</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>01314</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CALLAO - GRAN VIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70543073528783,40.4201681309456,10 </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
